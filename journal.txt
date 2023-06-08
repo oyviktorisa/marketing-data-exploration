@@ -5,8 +5,13 @@ The objective is to analyze the campaign performance.
 
 *Data cleaning*
 Eliminated people who didn't make any purchase either via web, store, or catalogue.
-Created 4 new variables :
+Created 5 new variables :
 - PurchaseMethod : to determine which method are used the most by a customer
 - EducationLvl, MaritalStatus : to put the scattered values in single column (from boolean to categorical)
 - AgeGroup : to group customers into 10 year range of age group
+- MostPurchased : to determine what is the most purchased product by a customer
 Removed the old education and marital status columns.
+
+*Data analysis*
+Divided the customer into 3 category based on the purchase method they most used
+Analyzed the characteristics of each category
