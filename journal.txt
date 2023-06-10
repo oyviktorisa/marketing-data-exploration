@@ -15,3 +15,4 @@ Removed the old education and marital status columns.
 *Data analysis*
 Divided the customer into 3 category based on the purchase method they most used
 Analyzed the characteristics of each category
+Analyzed the characteristics of customers that accepted campaign(s)
