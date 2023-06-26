@@ -1,5 +1,3 @@
-This is a work in progress.
-
 *Objective*
 The objective is to analyze the campaign performance.
 
@@ -16,3 +14,6 @@ Removed the old education and marital status columns.
 Divided the customer into 3 category based on the purchase method they most used
 Analyzed the characteristics of each category
 Analyzed the characteristics of customers that accepted campaign(s)
+
+*Chart and report*
+https://lookerstudio.google.com/reporting/fa8be8a6-832d-4e5a-9a42-fdce903f2c8e
